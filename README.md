@@ -23,7 +23,7 @@ Developed and manually tested on Windows.
 From the project folder:
 
 ```powershell
-python -m pip install pyautogui
+python -m pip install -r requirements.txt
 ```
 
 ## Run
